@@ -1,0 +1,92 @@
+{
+  "logo": "/logo.png",
+  "hero": {
+    "title": "Architectural Excellence",
+    "subtitle": "Beyond Boundaries",
+    "description": "Crafting timeless spaces that blend luxury with innovation, Alpine Architecture Studios transforms your vision into globally acclaimed reality.",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600607687940-4e2a09695d51?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=1974&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1628744276229-497443d853c4?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop"
+    ]
+  },
+  "about": {
+    "heading": "Alpine Architecture",
+    "subheading": "Roorkee, Uttarakhand",
+    "description": "Based in Roorkee, Uttarakhand, Alpine Architecture Studios is a premier firm dedicated to delivering the complete value chain in architecture and development. We specialize in providing top-tier URBAN PLANNING, ARCHITECTURE & INTERIOR DESIGN SERVICES to transform visions into globally acclaimed reality.",
+    "about_image": "/about_image.jpg",
+    "signature": "Ar. Mayur — Roorkee HQ"
+  },
+  "services": [
+    {
+      "id": 1,
+      "title": "Urban Planning",
+      "description": "Comprehensive planning strategies for sustainable urban development and land utilization."
+    },
+    {
+      "id": 2,
+      "title": "Architecture & Interior",
+      "description": "Bespoke architectural design and luxurious interior spaces tailored to your vision."
+    },
+    {
+      "id": 3,
+      "title": "Vastu Consultancy",
+      "description": "Harmonizing spaces with traditional Indian principles for prosperity and well-being."
+    },
+    {
+      "id": 4,
+      "title": "Project Management",
+      "description": "End-to-end oversight ensuring projects are delivered on time and within budget."
+    }
+  ],
+  "expertise": [
+    {
+      "title": "Residential Projects",
+      "count": "150+"
+    },
+    {
+      "title": "Healthcare Facilities",
+      "count": "25+"
+    },
+    {
+      "title": "Commercial Hubs",
+      "count": "45+"
+    }
+  ],
+  "pricing": {
+    "section_title": "Transparent Pricing Plans",
+    "section_description": "Choose the perfect architectural service package tailored to your project scope and requirements.",
+    "plans": [
+      {
+        "name": "15 MIN Telephonic Call",
+        "price": "₹1,200",
+        "description": "To clear your Interior doubts. You ask any specific question to Ar. Mayur over the call and after you book the call team will call you first to help you with time slot and process of the call.",
+        "recommended": false
+      },
+      {
+        "name": "1 HR Floor Plan Design",
+        "price": "₹2,199",
+        "description": "Detailed video consultation with Ar. Mayur. In this slot, you will first connect with the support team and they will help you with the process and the details.",
+        "recommended": true
+      },
+      {
+        "name": "1 HR Vastu Consultation",
+        "price": "₹2,199",
+        "description": "Specialized Vastu-focused guidance from our experts. In this slot, you will first connect with the support team.",
+        "recommended": false
+      }
+    ]
+  },
+  "contact": {
+    "email": "Mayuroffficial@gmail.com",
+    "phone": "+91 7017975034",
+    "address": "Roorkee, Uttarakhand, India",
+    "social": {
+      "instagram": "https://instagram.com/alpine_architecture",
+      "facebook": "https://facebook.com/alpine_architecture",
+      "linkedin": "https://linkedin.com/company/alpine-architecture"
+    }
+  }
+}

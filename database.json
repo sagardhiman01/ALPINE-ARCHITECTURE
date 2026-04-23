@@ -1,0 +1,245 @@
+{
+  "projects": [
+    {
+      "id": 12,
+      "title": "Plotting Design Project 1",
+      "category": "Plotting Design",
+      "location": "Various Locations",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/7.png"
+    },
+    {
+      "id": 13,
+      "title": "Plotting Design Project 2",
+      "category": "Plotting Design",
+      "location": "Various Locations",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/8.png"
+    },
+    {
+      "id": 14,
+      "title": "Plotting Design Project 3",
+      "category": "Plotting Design",
+      "location": "Various Locations",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/9.png"
+    },
+    {
+      "id": 15,
+      "title": "Plotting Design Project 4",
+      "category": "Plotting Design",
+      "location": "Various Locations",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/10.png"
+    },
+    {
+      "id": 16,
+      "title": "Plotting Design Project 5",
+      "category": "Plotting Design",
+      "location": "Various Locations",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/11.png"
+    },
+    {
+      "id": 17,
+      "title": "Plotting Design Project 6",
+      "category": "Plotting Design",
+      "location": "Various Locations",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/12.png"
+    },
+    {
+      "id": 18,
+      "title": "Plotting Design Project 7",
+      "category": "Plotting Design",
+      "location": "Various Locations",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/13.png"
+    },
+    {
+      "id": 19,
+      "title": "Plotting Design Project 8",
+      "category": "Plotting Design",
+      "location": "Various Locations",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/14.png"
+    },
+    {
+      "id": 20,
+      "title": "Plotting Design Project 9",
+      "category": "Plotting Design",
+      "location": "Various Locations",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/15.png"
+    },
+    {
+      "id": 21,
+      "title": "Plotting Design Project 10",
+      "category": "Plotting Design",
+      "location": "Various Locations",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/16.png"
+    },
+    {
+      "id": 22,
+      "title": "PREMIUM HOTEL PROJECT 1",
+      "category": "Hotel Project",
+      "location": "Upcoming Location",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/18.png"
+    },
+    {
+      "id": 23,
+      "title": "PREMIUM HOTEL PROJECT 2",
+      "category": "Hotel Project",
+      "location": "Upcoming Location",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/19.png"
+    },
+    {
+      "id": 24,
+      "title": "PREMIUM HOTEL PROJECT 3",
+      "category": "Hotel Project",
+      "location": "Upcoming Location",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/20.png"
+    },
+    {
+      "id": 25,
+      "title": "PREMIUM HOTEL PROJECT 4",
+      "category": "Hotel Project",
+      "location": "Upcoming Location",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/21.png"
+    },
+    {
+      "id": 26,
+      "title": "PREMIUM HOTEL PROJECT 5",
+      "category": "Hotel Project",
+      "location": "Upcoming Location",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/22.png"
+    },
+    {
+      "id": 27,
+      "title": "PREMIUM HOTEL PROJECT 6",
+      "category": "Hotel Project",
+      "location": "Upcoming Location",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/23.png"
+    },
+    {
+      "id": 28,
+      "title": "PREMIUM HOTEL PROJECT 7",
+      "category": "Hotel Project",
+      "location": "Upcoming Location",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/24.png"
+    },
+    {
+      "id": 29,
+      "title": "PREMIUM HOTEL PROJECT 8",
+      "category": "Hotel Project",
+      "location": "Upcoming Location",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/25.png"
+    },
+    {
+      "id": 30,
+      "title": "PREMIUM HOTEL PROJECT 9",
+      "category": "Hotel Project",
+      "location": "Upcoming Location",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/26.png"
+    },
+    {
+      "id": 31,
+      "title": "MODERN HOSPITAL PROJECT 1",
+      "category": "Healthcare",
+      "location": "Upcoming Site",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/33.png"
+    },
+    {
+      "id": 32,
+      "title": "MODERN HOSPITAL PROJECT 2",
+      "category": "Healthcare",
+      "location": "Upcoming Site",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/34.png"
+    },
+    {
+      "id": 33,
+      "title": "MODERN RESIDENTIAL PROJECT 1",
+      "category": "Residential Project",
+      "location": "Local Site",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/36.png"
+    },
+    {
+      "id": 34,
+      "title": "MODERN RESIDENTIAL PROJECT 2",
+      "category": "Residential Project",
+      "location": "Local Site",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/37.png"
+    },
+    {
+      "id": 35,
+      "title": "MODERN RESIDENTIAL PROJECT 3",
+      "category": "Residential Project",
+      "location": "Local Site",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/38.png"
+    },
+    {
+      "id": 36,
+      "title": "MODERN RESIDENTIAL PROJECT 4",
+      "category": "Residential Project",
+      "location": "Local Site",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/39.png"
+    },
+    {
+      "id": 37,
+      "title": "MODERN RESIDENTIAL PROJECT 5",
+      "category": "Residential Project",
+      "location": "Local Site",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/40.png"
+    },
+    {
+      "id": 38,
+      "title": "MODERN RESIDENTIAL PROJECT 6",
+      "category": "Residential Project",
+      "location": "Local Site",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/41.png"
+    },
+    {
+      "id": 39,
+      "title": "MODERN RESIDENTIAL PROJECT 7",
+      "category": "Residential Project",
+      "location": "Local Site",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/42.png"
+    },
+    {
+      "id": 40,
+      "title": "MODERN RESIDENTIAL PROJECT 8",
+      "category": "Residential Project",
+      "location": "Local Site",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/43.png"
+    },
+    {
+      "id": 41,
+      "title": "MODERN RESIDENTIAL PROJECT 9",
+      "category": "Residential Project",
+      "location": "Local Site",
+      "fullLocation": "Uttarakhand / Various",
+      "image": "/images/plotting/44.png"
+    }
+  ],
+  "contacts": []
+}

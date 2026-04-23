@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: alpine-architecture
+    env: node
+    plan: free
+    buildCommand: npm run install:all && npm run build:frontend
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 5000
+      - key: JWT_SECRET
+        generateValue: true
+      - key: ADMIN_EMAIL
+        value: admin@alpine.com
+      - key: ADMIN_PASSWORD_HASH
+        value: $2b$10$PMZHPxF2aWe3XPfl5hQ1E.IblwXF3vmYA5mf3l/pJf38G15iGBtmW

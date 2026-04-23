@@ -1,0 +1,44 @@
+name: Full-Stack CI/CD Pipeline
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Clean Install Backend
+      run: |
+        cd backend
+        npm ci || npm install
+
+    - name: Clean Install Frontend
+      run: |
+        cd frontend
+        npm ci || npm install
+
+    - name: Build Frontend
+      run: |
+        cd frontend
+        npm run build
+
+    - name: Run Backend Tests
+      run: |
+        cd backend
+        # Add basic test placeholder
+        echo "No tests configured yet!"
+
+    - name: Deploy to Cloud
+      run: echo "Write your cloud deployment script here (e.g. AWS S3 sync or SSH deploy)"
